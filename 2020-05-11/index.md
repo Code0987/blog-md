@@ -21,7 +21,7 @@ Let's start with creating a Dockerfile for our action, I'll use my Android CI Do
 
 The Dockerfile for action uses the existing Docker image and extends it to include `entrypoint` script. The idea for the script is basically to pass the input from a step in workflow to runtime of the Docker in the Github environment.
 
-#### Dockerfile
+#### `Dockerfile`
 
 ```sh
 # Container image that runs your code
@@ -34,7 +34,7 @@ RUN ["chmod", "+x", "/entrypoint.sh"]
 ENTRYPOINT ["/entrypoint.sh"]
 ```
 
-#### entrypoint.sh
+#### `entrypoint.sh`
 
 This script runs all the input passed from GitHub Workflow, as a set of commands in non-interactive `sh` spawned inside Docker runtime.
 
@@ -53,7 +53,7 @@ runs:
  args: …
 ```
 
-#### actions.yml
+#### `actions.yml`
 
 ```yaml
 name: 'Hello World'

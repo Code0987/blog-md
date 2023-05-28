@@ -7,4 +7,4 @@ domain: blugreenspace.hashnode.dev
 
 Hello,
 
-![](./meme.jpg)
+![](https://i.imgur.com/9tHEqdK.jpg)

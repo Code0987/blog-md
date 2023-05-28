@@ -1,10 +1,10 @@
 ---
-url: https://iq.opengenus.org/introduction-to-canvas/
 date: 2019-06-01
 title: Introduction to Canvas
 tags:
   - html
   - canvas
+canonical: https://iq.opengenus.org/introduction-to-canvas/
 domain: blugreenspace.hashnode.dev
 hideFromHashnodeCommunity: true
 ---

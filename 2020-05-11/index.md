@@ -4,6 +4,7 @@ title: Creating a GitHub Action for a Docker Image
 subtitle: What are GitHub Actions anyway?
 tags: docker, dockerfile, github, github-actions
 cover: https://i.imgur.com/mbt9run.jpg
+canonical: https://medium.com/@code0987/creating-a-github-action-for-a-docker-image-b00871844bdc
 domain: blugreenspace.hashnode.dev
 hideFromHashnodeCommunity: true
 ---

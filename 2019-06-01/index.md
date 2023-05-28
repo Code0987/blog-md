@@ -12,3 +12,5 @@ hideFromHashnodeCommunity: true
 The canvas element is part of HTML5 specification and allows for the rendering of 2D shapes and bitmap images. It is a low level, procedural model that updates a bitmap.
 
 Canvas also helps in making 2D games, animations, scenes or any graphics, in general, using JavaScript.
+
+More @ https://iq.opengenus.org/introduction-to-canvas/

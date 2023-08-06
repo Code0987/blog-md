@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Welcome folks!
 description: Welcome folks!
 tags: welcome

@@ -1,6 +1,5 @@
 ---
 published: false
-date: '2020-05-11T16:35:39Z'
 title: Creating a GitHub Action for a Docker Image
 description: What are GitHub Actions anyway?
 tags:

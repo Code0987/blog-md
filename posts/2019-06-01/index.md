@@ -4,9 +4,7 @@ title: Introduction to Canvas
 tags:
   - html
   - canvas
-canonical: https://iq.opengenus.org/introduction-to-canvas/
-domain: blugreenspace.hashnode.dev
-hideFromHashnodeCommunity: true
+canonical_url: https://iq.opengenus.org/introduction-to-canvas/
 ---
 
 The canvas element is part of HTML5 specification and allows for the rendering of 2D shapes and bitmap images. It is a low level, procedural model that updates a bitmap.

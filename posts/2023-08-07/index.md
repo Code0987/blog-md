@@ -6,8 +6,6 @@ tags:
   - science-fiction
   - short-story
   - review
-  - alastair-reynolds
-  - existentialism
 cover_image: 'https://i.imgur.com/zHXD03I.png'
 canonical_url: null
 ---

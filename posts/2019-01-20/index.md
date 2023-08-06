@@ -1,6 +1,5 @@
 ---
 published: false
-date: 2019-01-20
 title: Welcome folks!
 description: Welcome folks!
 tags: welcome

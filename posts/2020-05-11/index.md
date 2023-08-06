@@ -7,7 +7,7 @@ tags:
   - dockerfile
   - github
   - github-actions
-cover_image: 'https://i.imgur.com/mbt9run.jpg'
+cover_image: null
 canonical_url: null
 ---
 

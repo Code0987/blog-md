@@ -9,6 +9,7 @@ tags:
 cover_image: 'https://i.imgur.com/mbt9run.jpg'
 canonical_url: 'https://medium.com/@code0987/creating-a-github-action-for-a-docker-image-b00871844bdc'
 id: 1560776
+date: '2023-08-06T17:04:31Z'
 ---
 
 ### What are GitHub Actions anyway?

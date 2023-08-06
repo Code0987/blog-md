@@ -8,7 +8,7 @@ tags:
   - review
   - alastair-reynolds
   - existentialism
-cover_image: https://i.imgur.com/zHXD03I.png
+cover_image: 'https://i.imgur.com/zHXD03I.png'
 canonical_url: null
 ---
 

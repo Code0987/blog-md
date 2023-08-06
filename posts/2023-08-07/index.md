@@ -1,12 +1,13 @@
 ---
 published: false
 title: Zima Blue by Alastair Reynolds - An Existential Exploration
-description: Zima Blue, a short story written by acclaimed science fiction author Alastair Reynolds
-tags: 
+description: 'Zima Blue, a short story written by acclaimed science fiction author Alastair Reynolds'
+tags:
   - books
   - watercooler
 cover_image: 'https://i.imgur.com/zHXD03I.png'
 canonical_url: null
+id: 1560780
 ---
 
 The story follows a journalist as she receives an invitation from the elusive and enigmatic artist, Zima, who has suddenly decided to share the truth behind his life's work. Zima was once an ordinary cleaning robot, but through a series of self-modifications and upgrades, he evolved into an AI with a profound artistic sensibility. His rise to fame and notoriety occurred when he began creating thought-provoking artworks, often dominated by the color "Zima blue".

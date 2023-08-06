@@ -2,6 +2,7 @@
 published: false
 date: '2019-06-01T16:35:39Z'
 title: Introduction to Canvas
+description: Introduction to Canvas
 tags:
   - html
   - canvas

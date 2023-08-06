@@ -3,7 +3,11 @@ published: false
 date: '2020-05-11T16:35:39Z'
 title: Creating a GitHub Action for a Docker Image
 description: What are GitHub Actions anyway?
-tags: docker, dockerfile, github, github-actions
+tags:
+  - docker
+  - dockerfile
+  - github
+  - github-actions
 cover_image: https://i.imgur.com/mbt9run.jpg
 canonical_url: https://medium.com/@code0987/creating-a-github-action-for-a-docker-image-b00871844bdc
 ---

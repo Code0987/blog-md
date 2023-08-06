@@ -1,7 +1,7 @@
 ---
 date: 2023-08-07
-title: "Zima Blue" by Alastair Reynolds - An Existential Exploration
-description: "Zima Blue," a short story written by acclaimed science fiction author Alastair Reynolds
+title: Zima Blue by Alastair Reynolds - An Existential Exploration
+description: Zima Blue, a short story written by acclaimed science fiction author Alastair Reynolds
 tags: 
   - science-fiction
   - short-story

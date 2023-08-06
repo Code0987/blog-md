@@ -41,5 +41,3 @@ Enter article body here
 *   Uninstalling app via Github will remove it from all the publications that the repo was connected to. If you want to specifically remove the installation from a particular publication, do it from it's Dashboard (Integrations section).
 *   Creating an article with same slug as another article in the publication will overwrite the old article.
 *   Do note that maximum of 10 file changes are respected in one particular commit.
-
-

@@ -3,9 +3,7 @@ published: false
 title: Zima Blue by Alastair Reynolds - An Existential Exploration
 description: Zima Blue, a short story written by acclaimed science fiction author Alastair Reynolds
 tags: 
-  - science-fiction
-  - short-story
-  - review
+  - books
 cover_image: 'https://i.imgur.com/zHXD03I.png'
 canonical_url: null
 ---

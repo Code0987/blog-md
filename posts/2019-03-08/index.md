@@ -7,6 +7,7 @@ tags:
 cover_image: 'https://i.imgur.com/L1Jog4r.jpg'
 canonical_url: null
 id: 1560774
+date: '2023-08-06T17:05:56Z'
 ---
 
 Hello. 

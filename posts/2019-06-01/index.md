@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Introduction to Canvas
 description: Introduction to Canvas
 tags:

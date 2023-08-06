@@ -1,7 +1,7 @@
 ---
 published: false
-title: Creating a GitHub Action for a Docker Image
-description: What are GitHub Actions anyway?
+title: "Creating a GitHub Action for a Docker\_Image"
+description: "What are GitHub Actions\_anyway?"
 tags:
   - docker
   - dockerfile

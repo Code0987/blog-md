@@ -1,9 +1,11 @@
 ---
-date: 2019-06-01
+published: false
+date: '2019-06-01T16:35:39Z'
 title: Introduction to Canvas
 tags:
   - html
   - canvas
+cover_image: null
 canonical_url: https://iq.opengenus.org/introduction-to-canvas/
 ---
 

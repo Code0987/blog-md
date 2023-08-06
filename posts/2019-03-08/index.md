@@ -1,9 +1,12 @@
 ---
-date: 2019-03-08
+published: false
+date: '2019-03-08T16:35:39Z'
 title: Creating multi-purpose reactive forms with Angular
 tags:
   - angular
   - javascript
+cover_image: https://i.imgur.com/L1Jog4r.jpg
+canonical_url: null
 ---
 
 Hello. 

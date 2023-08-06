@@ -1,8 +1,11 @@
 ---
 published: false
-title: "Creating a GitHub Action for a Docker\_Image"
-description: "What are GitHub Actions\_anyway?"
-tags: docker
+title: Creating a GitHub Action for a Docker Image
+description: What are GitHub Actions anyway?
+tags:
+  - docker
+  - dockerfile
+  - github
 cover_image: 'https://i.imgur.com/mbt9run.jpg'
 canonical_url: 'https://medium.com/@code0987/creating-a-github-action-for-a-docker-image-b00871844bdc'
 id: 1560776

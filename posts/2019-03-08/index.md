@@ -5,8 +5,9 @@ title: Creating multi-purpose reactive forms with Angular
 tags:
   - angular
   - javascript
-cover_image: https://i.imgur.com/L1Jog4r.jpg
+cover_image: 'https://i.imgur.com/L1Jog4r.jpg'
 canonical_url: null
+id: 1560774
 ---
 
 Hello. 

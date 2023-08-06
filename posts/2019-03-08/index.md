@@ -1,6 +1,5 @@
 ---
 published: true
-date: '2019-03-08T16:35:39Z'
 title: Creating multi-purpose reactive forms with Angular
 tags:
   - angular

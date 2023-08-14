@@ -6,6 +6,7 @@ tags:
   - python
 cover_image: 'https://i.imgur.com/pqhxBPu.png'
 canonical_url: null
+id: 1567856
 ---
 
 Generators in Python are a type of iterable that can be used to iterate over a sequence of values without generating the entire sequence in memory. This makes them ideal for scenarios where you're dealing with large datasets, as they can help you avoid memory issues and improve the overall performance of your code.

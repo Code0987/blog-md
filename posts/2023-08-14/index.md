@@ -8,8 +8,6 @@ cover_image: 'https://i.imgur.com/pqhxBPu.png'
 canonical_url: null
 ---
 
-### Understanding Python Generators
-
 Generators in Python are a type of iterable that can be used to iterate over a sequence of values without generating the entire sequence in memory. This makes them ideal for scenarios where you're dealing with large datasets, as they can help you avoid memory issues and improve the overall performance of your code.
 
 The key feature that differentiates generators from other iterables is that they use **lazy evaluation**. This means that they *only compute and yield values one at a time as you iterate over them*, rather than creating a full list of values upfront.

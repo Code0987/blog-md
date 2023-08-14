@@ -6,6 +6,7 @@ tags:
   - python
 cover_image: 'https://i.imgur.com/pqhxBPu.png'
 canonical_url: null
+id: 1567856
 ---
 
 ### Understanding Python Generators

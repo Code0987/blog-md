@@ -4,6 +4,10 @@ title: Understanding Python Generators - Harnessing Lazy Evaluation
 description: Learn how to use Python generators to create iterators in a concise and memory-efficient manner.
 tags:
   - python
+  - python3
+  - tutorial
+  - programming
+  - learntocode
 cover_image: 'https://i.imgur.com/pqhxBPu.png'
 canonical_url: null
 id: 1567856

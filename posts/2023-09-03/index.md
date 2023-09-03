@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Understanding Python Context Managers
 description: Context managers are a powerful yet often underutilized feature in Python.
 tags:

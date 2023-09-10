@@ -44,9 +44,9 @@ Closures can be incredibly useful in various scenarios, such as:
 
 **Data Encapsulation**: You can use closures to encapsulate data within a function, creating a private scope for that data. This helps in maintaining data integrity and preventing unintended modifications.
 
-**Decorator Pattern**: Modifying the behavior of functions without altering their code.
+**Decorator Pattern**: Modifying the behaviour of functions without altering their code.
 
-**Memoization**: Closures can be used to cache the results of expensive function calls, improving performance by avoiding unnecessary recomputation.
+**Memoization**: Closures can be used to cache the results of expensive function calls, improving performance by avoiding unnecessary re-computation.
 
 Now, let's dive into some Python code examples to understand closures better.
 
@@ -129,7 +129,7 @@ say_hello()
 # Something is happening after the function is called.
 ```
 
-This code defines a decorator `my_decorator`, which wraps the `say_hello` function with additional behavior.
+This code defines a decorator `my_decorator`, which wraps the `say_hello` function with additional behaviour.
 
 ### Memoization
 

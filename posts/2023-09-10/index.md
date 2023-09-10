@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Understanding Closures in Python
 description: Closures are a powerful concept in programming that exist in both Python and many other programming languages. They allow functions to retain access to their enclosing scope's variables even after the outer function has completed execution.
 tags:

@@ -4,7 +4,6 @@ title: Understanding Closures in Python
 description: Closures are a powerful concept in programming that exist in both Python and many other programming languages. They allow functions to retain access to their enclosing scope's variables even after the outer function has completed execution.
 tags:
   - python
-  - javascript
   - tutorial
   - programming
 cover_image: 'https://i.imgur.com/pEerl8J.png'
@@ -17,6 +16,8 @@ Closures are a powerful concept in programming that exist in both Python and man
 In Python, a closure is a nested function that captures and remembers the values of variables in the enclosing (containing) function's local scope, even if the enclosing function has finished executing. This means that a closure "closes over" the variables it needs, allowing them to persist beyond the lifetime of the enclosing function.
 
 To create a closure, you typically define a nested function inside another function and return that nested function.
+
+---
 
 ## How Closures Work
 
@@ -35,6 +36,8 @@ print(result)  # Output: 15
 
 In this example, `inner_function` is defined inside `outer_function`. When `outer_function` is called with an argument of 10, it returns `inner_function`, which is then assigned to the closure variable. Later, when `closure` is called with an argument of 5, it still has access to the `x` variable from its enclosing scope, resulting in the output 15.
 
+---
+
 ## Why Use Closures?
 
 Closures can be incredibly useful in various scenarios, such as:
@@ -50,6 +53,8 @@ Closures can be incredibly useful in various scenarios, such as:
 **Memoization**: Closures can be used to cache the results of expensive function calls, improving performance by avoiding unnecessary re-computation.
 
 Now, let's dive into some Python code examples to understand closures better.
+
+---
 
 ### Function Factory
 
@@ -177,6 +182,8 @@ The `wrapper` function is the actual closure, which takes an argument `n`. It ch
 The `@memoize` decorator is applied to the `factorial` function, which enables memoization for the `factorial` function. Now, when you call `factorial(n)` for any value of `n`, the function will check if the result is already cached before performing the actual factorial computation. This dramatically reduces redundant calculations and improves performance for large values of `n`.
 
 Using closures and memoization in this way can significantly optimize recursive functions and is a useful technique in many algorithmic scenarios.
+
+---
 
 ## Conclusion
 

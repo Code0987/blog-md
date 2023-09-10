@@ -7,7 +7,7 @@ tags:
   - javascript
   - tutorial
   - programming
-cover_image: 'https://i.imgur.com/r30OEKR.png'
+cover_image: 'https://i.imgur.com/pEerl8J.png'
 canonical_url: null
 ---
 

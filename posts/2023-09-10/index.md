@@ -9,6 +9,7 @@ tags:
   - programming
 cover_image: 'https://i.imgur.com/pEerl8J.png'
 canonical_url: null
+id: 1595879
 ---
 
 Closures are a powerful concept in programming that exist in both Python and many other programming languages. They allow functions to retain access to their enclosing scope's variables even after the outer function has completed execution.

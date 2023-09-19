@@ -1,0 +1,9 @@
+# blog-md
+
+---
+
+{{ template "article-table" .Articles }}
+
+---
+
+*Updated at: {{ formatTime .Time }}*

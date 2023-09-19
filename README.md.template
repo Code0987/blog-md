@@ -1,9 +1,5 @@
-# blog-md
+# Readme
 
----
+### Recent Posts
 
-{{ template "article-table" .Articles }}
-
----
-
-*Updated at: {{ formatTime .Time }}*
+{{ template "article-list" .Articles }}

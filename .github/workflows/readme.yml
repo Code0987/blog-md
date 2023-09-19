@@ -1,10 +1,12 @@
 name: readme
+
 on:
   schedule:
-    - cron: '15 */6 * * *'
+    - cron: '0 0 * */1 *'
   push:
     branches:
       - main
+
 jobs:
   update-weather:
     permissions: write-all

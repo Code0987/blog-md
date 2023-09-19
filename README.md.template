@@ -1,5 +1,0 @@
-# Readme
-
-### Recent Posts
-
-{{ template "article-list" .Articles }}

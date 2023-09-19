@@ -12,7 +12,7 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - name: Update articles
-        uses: huantt/article-listing@v1.1.0
+        uses: huantt/article-listing@v1.2.0
         with:
           username: blugreenspace
           limit: 25

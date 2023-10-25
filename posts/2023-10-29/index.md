@@ -3,10 +3,10 @@ published: false
 title: Preventing Empty Updates In PostgreSQL Tables Using A Simple Trigger Function
 description: We will explore the purpose, mechanics, and advantages of a PostgreSQL trigger designed to safeguard against null or empty updates.
 tags:
-  - python
+  - sql
   - tutorial
   - programming
-cover_image: 'https://i.imgur.com/pEerl8J.png'
+cover_image: 'https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg'
 canonical_url: null
 ---
 

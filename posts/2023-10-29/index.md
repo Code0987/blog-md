@@ -9,6 +9,7 @@ tags:
 cover_image: 'https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg'
 canonical_url: null
 id: 1646381
+date: '2023-10-26T14:51:50Z'
 ---
 
 ### The Need for Preventing Empty Updates

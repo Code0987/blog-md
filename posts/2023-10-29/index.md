@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Preventing Empty Updates In PostgreSQL Tables Using A Simple Trigger Function
 description: 'We will explore the purpose, mechanics, and advantages of a PostgreSQL trigger designed to safeguard against null or empty updates.'
 tags:

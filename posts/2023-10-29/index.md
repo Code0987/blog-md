@@ -13,13 +13,12 @@ id: 1646381
 
 ### The Need for Preventing Empty Updates
 
-Empty updates occur when an `UPDATE` statement is executed, but the new values being set are identical to the old values. In other words, the update does not result in any changes to the data. These empty updates can waste resources and potentially lead to infinite loops in cases where table maintenance triggers recursively update their own table or multiple tables update each other in a circular fashion.
+Empty updates are silent problems in PostgreSQL, occurring when an `UPDATE` makes no real changes to data. They're wasteful and can lead to loops in scenarios with recursive triggers.
 
-Empty updates can occur in a variety of situations, but they are often most pronounced in scenarios involving recursive triggers. Consider two common cases where empty updates can be problematic:
+Some common causes of empty updates include:
 
-**Table Maintenance Triggers**: In many databases, you'll find triggers responsible for maintaining a table's data integrity. If these triggers inadvertently update the same table they are meant to maintain, you could inadvertently trigger a recursive loop. Without a mechanism to detect and halt empty updates, these loops could lead to database inefficiency and even stack overflows.
-
-**Two-Way Data Synchronization**: In complex database environments, you may have two tables that need to stay synchronized. Changes in one table trigger updates in the other, and vice versa. Without careful handling, this can lead to recursive circular updates, causing empty updates and performance issues.
+- Triggers meant to maintain data integrity can trigger loops if they update the same table. This leads to inefficiencies.
+- Two tables need to stay in sync. Changes in one table trigger updates in the other, and vice versa. Mismanagement can lead to recursive circular updates, causing empty updates and performance issues.
 
 ### The Solution: A Simple Trigger Function
 

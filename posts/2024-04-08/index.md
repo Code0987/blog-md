@@ -8,8 +8,6 @@ tags:
   - programming
 cover_image: 'https://i.imgur.com/JK2j6mT.png'
 canonical_url: null
-id: null
-date: null
 ---
 
 ### Finding Which Columns Value Has Actually Changed in PostgreSQL Trigger Functions

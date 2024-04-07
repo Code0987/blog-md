@@ -20,7 +20,7 @@ In PostgreSQL, triggers are powerful tools used to execute custom actions when c
 
 When an update operation occurs on a table, it's necessary to identify which columns have been modified and record these changes. However, PostgreSQL does not provide built-in functionality to directly identify the changed columns within a trigger function. Instead, developers need to devise a method to achieve this.
 
-### Solution
+### Solution With Example
 
 To identify the changed columns within a PostgreSQL trigger function, we can compare the old and new values of each column using dynamic SQL and JSON functions. Let's illustrate this with an example trigger function:
 
@@ -50,11 +50,8 @@ $$
 LANGUAGE plpgsql;
 ```
 
-#### Trigger Definition
-
 Once the trigger function `audit_changes()` is defined, it can be associated with a specific table and event (e.g., `BEFORE UPDATE`):
 
-sql
 ```sql
 CREATE TRIGGER audit_table_changes
 BEFORE UPDATE ON your_table
